@@ -1,4 +1,7 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="H,dNht*7@F0UQYbY|K$H" x="20" y="20"><statement name="HANDLER"><block type="device_show_leds" id="3j?[YnYXX_PIX:u!FvO;"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field></block></statement></block><block type="device_forever" id="2NAX([5_3x7=i2OkF$RY" x="225" y="20"><statement name="HANDLER"><block type="basic_show_icon" id="$r4|d-R!M=yU`V}BsH*B"><field name="i">IconNames.Heart</field><next><block type="device_pause" id="b!8i3COoO)+D5%9?79-s"><value name="pause"><shadow type="timePicker" id="q3;tctgojI4l.O,_CJ=H"><field name="ms">500</field></shadow></value><next><block type="basic_show_icon" id="?ena0F0#;Z=8#9*SsOQP"><field name="i">IconNames.SmallHeart</field><next><block type="device_pause" id="HD2~;|2+){BC~w9U9EMB"><value name="pause"><shadow type="timePicker" id="%jErh^G`?oae^dOMeH0W"><field name="ms">500</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
